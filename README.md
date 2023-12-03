@@ -2,7 +2,7 @@
 Repo for the second part of the Programming Course project.
 
 ## Research question
-> Which countries and continents have been the most successful (w.r.t all types of medals) across all sports?
+> What are the trends in height and weight of olympic athletes over the years? Which sports have the tallest/smallest athletes? Which sports have the heaviest/most lightweight athletes? Which countires/continents have the tallest/smallest athletes? Which countries have the heaviest/most lightweight athletes?
 
 ## TO-DO
 
