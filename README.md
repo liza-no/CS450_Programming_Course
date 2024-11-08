@@ -1,16 +1,16 @@
 # Programming Course Project Part 2
-Repo for the second part of the Programming Course project.
+Submission for the second part of the project for the Programming Course lecture.
 
 ## Research question
-> What are the trends in height and weight of olympic athletes over the years? Which sports have the tallest/smallest athletes? Which sports have the heaviest/most lightweight athletes? Which countires/continents have the tallest/smallest athletes? Which countries have the heaviest/most lightweight athletes?
+> What are the maximum and minimum values for age, weight, and height among olympic athletes across all sports? How do these values differ between men and women?
 
-## TO-DO
+## Setup
+1. If working on a new virtual environment run the following command:
+```
+pip install -r requirements.txt
+```
+2. Run the cells in the [data-exploration.ipynb](data-exploration.ipynb) notebook (all the code and plots generated for the presentation are here)
 
-- [ ] Find team
-- [ ] Define research question
-- [ ] Collect all data needed to answer the research question
-- [ ] Create code to filter the data
-- [ ] Create code to visualize the data
-- [ ] Cross check our results (using info from the internet)
-- [ ] Create presentation
-- [ ] Upload all files to ilias (slides, code, data)
+## Submitted by:
+- Elizaveta Nosova (1983805)
+- Miguel Samaniego (1980439)
